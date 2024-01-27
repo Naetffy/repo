@@ -1,7 +1,6 @@
 saludos
-<<<<<<< HEAD
 2024-1
-=======
 
-CVDS
->>>>>>> 1a412ced05a5d06ec902569617afd09328663af4
+
+
+amongos
