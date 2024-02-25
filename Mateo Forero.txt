@@ -1,0 +1,51 @@
+## Información personal
+
+### Mi nombre
+
+* Mateo Sebastian Forero
+
+### Datos básicos
+
+**Nacionalidad** Colombia
+
+**Edad:** 20 años
+
+**Genero:** Masculino
+
+**Carnet:** 1001096188
+
+### Información académica
+
+* **Materias**
+
+  * *CVDS*
+
+  * *AUPN*
+
+  * *ACSO*
+
+  * *LSOT*
+
+  * *CLYS*
+
+* **Semestre**: Septimo
+
+### Gustos personales
+
+1. DEPORTE:
+   
+   * Futbol
+   * Tenis
+   * Baloncesto 
+        
+     
+2. CÓDIGO
+
+   * Mi primer código
+
+   ```python
+	def main():
+	print("Hello world!")
+	main()
+	```
+###Learn git branching

@@ -1,0 +1,52 @@
+## Información personal
+
+### Mi nombre
+
+* Juan Daniel Murcia
+
+### Datos básicos
+
+**Nacionalidad** Colombia
+
+**Edad:** 20 años
+
+**Genero:** Masculino
+
+**Carnet:** 1001096188
+
+### Información académica
+
+* **Materias**
+
+  * *CVDS*
+
+  * *AUPN*
+
+  * *RECO*
+
+  * *EGR1*
+
+  * *PRYE*
+
+* **Semestre**: Septimo
+
+### Gustos personales
+
+1. MUSICA:
+   
+   * Duki:
+   * Eladio carrion:
+   * Eminem:
+   * Slipknot       
+        
+     
+2. CÓDIGO
+
+   * Mi primer código
+
+   ```python
+	def main():
+	print("Hello world!")
+	main()
+	```
+###Learn git branching
